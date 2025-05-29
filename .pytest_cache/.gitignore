@@ -1,0 +1,21 @@
+# Created by pytest automatically.
+
+# Ignore log files
+logs/
+
+# Ignore test reports
+reports/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore compiled Java files
+*.class
+
+# Ignore environment file (passwords, secrets)
+.env
+
+# Ignore IDE-specific files
+.idea/
+.vscode/

@@ -1,0 +1,37 @@
+29/05/2025 03:52:28 PM: INFO: test_login: test_001: Test Case 001
+29/05/2025 03:52:28 PM: INFO: test_login: test_001: Test Case Starting
+29/05/2025 03:52:29 PM: INFO: test_login: test_001: entered username
+29/05/2025 03:52:29 PM: INFO: test_login: test_001: entered password
+29/05/2025 03:52:29 PM: INFO: test_login: test_001: clicked login
+29/05/2025 03:52:32 PM: INFO: test_login: test_001: Test Case Pass
+29/05/2025 04:05:33 PM: INFO: test_login: test_001: Test Case 001
+29/05/2025 04:05:33 PM: INFO: test_login: test_001: Test Case Starting
+29/05/2025 04:05:40 PM: INFO: test_login: test_001: entered username
+29/05/2025 04:05:41 PM: INFO: test_login: test_001: entered password
+29/05/2025 04:05:41 PM: INFO: test_login: test_001: clicked login
+29/05/2025 04:05:45 PM: INFO: test_login: test_001: Test Case Pass
+29/05/2025 04:05:58 PM: INFO: test_login: test_002: Test Case 002 - Starting
+29/05/2025 04:05:58 PM: INFO: test_login: test_002: Test Case 002 - Starting
+29/05/2025 04:05:59 PM: INFO: test_login: test_002: Entered wrong username
+29/05/2025 04:05:59 PM: INFO: test_login: test_002: Entered wrong username
+29/05/2025 04:05:59 PM: INFO: test_login: test_002: Entered password
+29/05/2025 04:05:59 PM: INFO: test_login: test_002: Entered password
+29/05/2025 04:05:59 PM: INFO: test_login: test_002: Clicked login
+29/05/2025 04:05:59 PM: INFO: test_login: test_002: Clicked login
+29/05/2025 04:06:03 PM: INFO: test_login: test_002: Test Case 002 - Pass
+29/05/2025 04:06:03 PM: INFO: test_login: test_002: Test Case 002 - Pass
+29/05/2025 04:06:20 PM: INFO: test_login: test_003: Test Case 003 - Starting
+29/05/2025 04:06:20 PM: INFO: test_login: test_003: Test Case 003 - Starting
+29/05/2025 04:06:20 PM: INFO: test_login: test_003: Test Case 003 - Starting
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Entered username
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Entered username
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Entered username
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Entered wrong password
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Entered wrong password
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Entered wrong password
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Clicked login
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Clicked login
+29/05/2025 04:06:21 PM: INFO: test_login: test_003: Clicked login
+29/05/2025 04:06:25 PM: INFO: test_login: test_003: Test Case 003 - Pass
+29/05/2025 04:06:25 PM: INFO: test_login: test_003: Test Case 003 - Pass
+29/05/2025 04:06:25 PM: INFO: test_login: test_003: Test Case 003 - Pass
