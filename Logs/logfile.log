@@ -35,3 +35,233 @@
 29/05/2025 04:06:25 PM: INFO: test_login: test_003: Test Case 003 - Pass
 29/05/2025 04:06:25 PM: INFO: test_login: test_003: Test Case 003 - Pass
 29/05/2025 04:06:25 PM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:09:36 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 09:09:36 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 09:09:36 AM: INFO: test_login: test_001: entered username
+30/05/2025 09:09:36 AM: INFO: test_login: test_001: entered password
+30/05/2025 09:09:37 AM: INFO: test_login: test_001: clicked login
+30/05/2025 09:09:41 AM: INFO: test_login: test_001: Test Case Pass
+30/05/2025 09:09:49 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:09:49 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:09:51 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:09:51 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:09:51 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:09:51 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:09:51 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:09:51 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:09:53 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:09:53 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:10:01 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:10:05 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:10:05 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:10:05 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:10:06 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:10:06 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:10:06 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:52:08 AM: INFO: test_EmpStatus_count: test_001: Test Case 001, TO test the add button in employment status page
+30/05/2025 09:52:08 AM: INFO: test_EmpStatus_count: test_001: Test case started
+30/05/2025 09:52:09 AM: INFO: test_EmpStatus_count: test_001: Login Successful
+30/05/2025 09:52:14 AM: INFO: test_EmpStatus_count: test_001: Click On Admin
+30/05/2025 09:52:19 AM: INFO: test_EmpStatus_count: test_001: Click On job
+30/05/2025 09:52:20 AM: INFO: test_EmpStatus_count: test_001: Click On Employment_Status
+30/05/2025 09:52:21 AM: INFO: test_EmpStatus_count: test_001: old status count save
+30/05/2025 09:52:22 AM: INFO: test_EmpStatus_count: test_001: clicked add status
+30/05/2025 09:52:23 AM: INFO: test_EmpStatus_count: test_001: Add New status
+30/05/2025 09:52:23 AM: INFO: test_EmpStatus_count: test_001: Click on save status
+30/05/2025 09:52:30 AM: INFO: test_EmpStatus_count: test_001: New status count save
+30/05/2025 09:52:30 AM: INFO: test_EmpStatus_count: test_001: Test case Passed, Add functionality in working fine
+30/05/2025 09:52:39 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 09:52:39 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 09:52:39 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 09:52:39 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 09:52:40 AM: INFO: test_login: test_001: entered username
+30/05/2025 09:52:40 AM: INFO: test_login: test_001: entered username
+30/05/2025 09:52:40 AM: INFO: test_login: test_001: entered password
+30/05/2025 09:52:40 AM: INFO: test_login: test_001: entered password
+30/05/2025 09:52:43 AM: INFO: test_login: test_001: clicked login
+30/05/2025 09:52:43 AM: INFO: test_login: test_001: clicked login
+30/05/2025 09:52:44 AM: INFO: test_login: test_001: Test Case Pass
+30/05/2025 09:52:44 AM: INFO: test_login: test_001: Test Case Pass
+30/05/2025 09:52:53 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:52:53 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:52:53 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:52:55 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:52:58 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:52:58 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:52:58 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:53:07 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:53:07 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:53:07 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:53:07 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:53:08 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:53:09 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:53:09 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:53:09 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:53:09 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:53:12 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:53:12 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:53:12 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:53:12 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:56:17 AM: INFO: test_EmpStatus_count: test_001: Test Case 001, TO test the add button in employment status page
+30/05/2025 09:56:17 AM: INFO: test_EmpStatus_count: test_001: Test case started
+30/05/2025 09:56:20 AM: INFO: test_EmpStatus_count: test_001: Login Successful
+30/05/2025 09:56:23 AM: INFO: test_EmpStatus_count: test_001: Click On Admin
+30/05/2025 09:56:28 AM: INFO: test_EmpStatus_count: test_001: Click On job
+30/05/2025 09:56:30 AM: INFO: test_EmpStatus_count: test_001: Click On Employment_Status
+30/05/2025 09:56:31 AM: INFO: test_EmpStatus_count: test_001: old status count save
+30/05/2025 09:56:32 AM: INFO: test_EmpStatus_count: test_001: clicked add status
+30/05/2025 09:56:37 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 09:56:37 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 09:56:37 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 09:56:37 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 09:56:40 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:56:40 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:56:40 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:56:43 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:56:43 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:56:43 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:56:43 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:57:45 AM: INFO: test_EmpStatus_count: test_001: Test Case 001, TO test the add button in employment status page
+30/05/2025 09:57:45 AM: INFO: test_EmpStatus_count: test_001: Test case started
+30/05/2025 09:57:46 AM: INFO: test_EmpStatus_count: test_001: Login Successful
+30/05/2025 09:57:52 AM: INFO: test_EmpStatus_count: test_001: Click On Admin
+30/05/2025 09:57:57 AM: INFO: test_EmpStatus_count: test_001: Click On job
+30/05/2025 09:57:59 AM: INFO: test_EmpStatus_count: test_001: Click On Employment_Status
+30/05/2025 09:58:00 AM: INFO: test_EmpStatus_count: test_001: old status count save
+30/05/2025 09:58:01 AM: INFO: test_EmpStatus_count: test_001: clicked add status
+30/05/2025 09:58:02 AM: INFO: test_EmpStatus_count: test_001: Add New status
+30/05/2025 09:58:02 AM: INFO: test_EmpStatus_count: test_001: Click on save status
+30/05/2025 09:58:09 AM: INFO: test_EmpStatus_count: test_001: New status count save
+30/05/2025 09:58:09 AM: INFO: test_EmpStatus_count: test_001: Test case Passed, Add functionality in working fine
+30/05/2025 09:58:18 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 09:58:18 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 09:58:18 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 09:58:18 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 09:58:20 AM: INFO: test_login: test_001: entered username
+30/05/2025 09:58:20 AM: INFO: test_login: test_001: entered username
+30/05/2025 09:58:20 AM: INFO: test_login: test_001: entered password
+30/05/2025 09:58:20 AM: INFO: test_login: test_001: entered password
+30/05/2025 09:58:20 AM: INFO: test_login: test_001: clicked login
+30/05/2025 09:58:20 AM: INFO: test_login: test_001: clicked login
+30/05/2025 09:58:23 AM: INFO: test_login: test_001: Test Case Pass
+30/05/2025 09:58:23 AM: INFO: test_login: test_001: Test Case Pass
+30/05/2025 09:58:32 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:58:32 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:58:32 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 09:58:33 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:58:33 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:58:33 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 09:58:33 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:58:33 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:58:33 AM: INFO: test_login: test_002: Entered password
+30/05/2025 09:58:34 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:58:34 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:58:34 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 09:58:36 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:58:36 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:58:36 AM: INFO: test_login: test_002: Test Case 002 - Pass
+30/05/2025 09:58:45 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:58:45 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:58:45 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:58:45 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 09:58:46 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:58:46 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:58:46 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:58:46 AM: INFO: test_login: test_003: Entered username
+30/05/2025 09:58:47 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:58:47 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:58:47 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:58:47 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 09:58:50 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:58:50 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:58:50 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:58:50 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 09:58:51 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:58:51 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:58:51 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 09:58:51 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 10:00:42 AM: INFO: test_EmpStatus_count: test_001: Test Case 001, TO test the add button in employment status page
+30/05/2025 10:00:42 AM: INFO: test_EmpStatus_count: test_001: Test case started
+30/05/2025 10:00:43 AM: INFO: test_EmpStatus_count: test_001: Login Successful
+30/05/2025 10:00:49 AM: INFO: test_EmpStatus_count: test_001: Click On Admin
+30/05/2025 10:00:54 AM: INFO: test_EmpStatus_count: test_001: Click On job
+30/05/2025 10:00:55 AM: INFO: test_EmpStatus_count: test_001: Click On Employment_Status
+30/05/2025 10:00:56 AM: INFO: test_EmpStatus_count: test_001: old status count save
+30/05/2025 10:00:56 AM: INFO: test_EmpStatus_count: test_001: clicked add status
+30/05/2025 10:00:57 AM: INFO: test_EmpStatus_count: test_001: Add New status
+30/05/2025 10:00:57 AM: INFO: test_EmpStatus_count: test_001: Click on save status
+30/05/2025 10:01:04 AM: INFO: test_EmpStatus_count: test_001: New status count save
+30/05/2025 10:01:04 AM: INFO: test_EmpStatus_count: test_001: Test case Passed, Add functionality in working fine
+30/05/2025 10:01:13 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 10:01:13 AM: INFO: test_login: test_001: Test Case 001
+30/05/2025 10:01:13 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 10:01:13 AM: INFO: test_login: test_001: Test Case Starting
+30/05/2025 10:01:14 AM: INFO: test_login: test_001: entered username
+30/05/2025 10:01:14 AM: INFO: test_login: test_001: entered username
+30/05/2025 10:01:14 AM: INFO: test_login: test_001: entered password
+30/05/2025 10:01:14 AM: INFO: test_login: test_001: entered password
+30/05/2025 10:01:14 AM: INFO: test_login: test_001: clicked login
+30/05/2025 10:01:14 AM: INFO: test_login: test_001: clicked login
+30/05/2025 10:01:17 AM: INFO: test_login: test_001: Test Case Pass
+30/05/2025 10:01:17 AM: INFO: test_login: test_001: Test Case Pass
+30/05/2025 10:01:27 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 10:01:27 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 10:01:27 AM: INFO: test_login: test_002: Test Case 002 - Starting
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Entered wrong username
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Entered password
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Entered password
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Entered password
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 10:01:28 AM: INFO: test_login: test_002: Clicked login
+30/05/2025 10:01:31 AM: CRITICAL: test_login: test_002: Test Case 002 - Failed
+30/05/2025 10:01:31 AM: CRITICAL: test_login: test_002: Test Case 002 - Failed
+30/05/2025 10:01:31 AM: CRITICAL: test_login: test_002: Test Case 002 - Failed
+30/05/2025 10:01:31 AM: ERROR: test_login: test_002: Test Case 002 - Error: Element not found within timeout.
+30/05/2025 10:01:31 AM: ERROR: test_login: test_002: Test Case 002 - Error: Element not found within timeout.
+30/05/2025 10:01:31 AM: ERROR: test_login: test_002: Test Case 002 - Error: Element not found within timeout.
+30/05/2025 10:01:38 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 10:01:38 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 10:01:38 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 10:01:38 AM: INFO: test_login: test_003: Test Case 003 - Starting
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered username
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered username
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered username
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered username
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 10:01:39 AM: INFO: test_login: test_003: Entered wrong password
+30/05/2025 10:01:42 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 10:01:42 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 10:01:42 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 10:01:42 AM: INFO: test_login: test_003: Clicked login
+30/05/2025 10:01:43 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 10:01:43 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 10:01:43 AM: INFO: test_login: test_003: Test Case 003 - Pass
+30/05/2025 10:01:43 AM: INFO: test_login: test_003: Test Case 003 - Pass

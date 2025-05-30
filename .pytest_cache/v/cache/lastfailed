@@ -1,3 +1,4 @@
 {
-  "Test_login.py::TestLogin::test_001": true
+  "Test_login.py::TestLogin::test_001": true,
+  "TestCase/test_login.py::TestLogin::test_002": true
 }

@@ -2,6 +2,9 @@ import time
 from PageObjects.LoginPage import Login
 from PageObjects.Dashboard import dashboard
 from Utilities.logger import logclass
+import configparser
+config = configparser.ConfigParser()
+config.read("Utilities/input.properties")
 
 class TestLogin(logclass):
     def test_001(self,setup):
@@ -12,9 +15,9 @@ class TestLogin(logclass):
         self.driver.implicitly_wait(30)
         log.info("Test Case 001")
         log.info("Test Case Starting")
-        lg.input_username("Admin")
+        lg.input_username(config.get("credential","correct_username"))
         log.info("entered username")
-        lg.input_password("admin123")
+        lg.input_password(config.get("credential","correct_password"))
         log.info("entered password")
         lg.click_login()
         log.info("clicked login")
@@ -23,6 +26,7 @@ class TestLogin(logclass):
                 assert True
                 log.info("Test Case Pass")
             else:
+                self.driver.save_screenshot("Screenshots\\TestLogin_001.png")
                 log.critical("Test Case Failed")
                 assert False
         except:
@@ -36,9 +40,9 @@ class TestLogin(logclass):
         lg = Login(self.driver)
         self.driver.implicitly_wait(30)
         log.info("Test Case 002 - Starting")
-        lg.input_username("Amin")
+        lg.input_username(config.get("credential","incorrect_username"))
         log.info("Entered wrong username")
-        lg.input_password("admin123")
+        lg.input_password(config.get("credential","correct_password"))
         log.info("Entered password")
         lg.click_login()
         log.info("Clicked login")
@@ -47,6 +51,7 @@ class TestLogin(logclass):
                 assert True
                 log.info("Test Case 002 - Pass")
             else:
+                self.driver.save_screenshot("Screenshots\\TestLogin_002.png")
                 log.critical("Test Case 002 - Failed")
                 assert False
         except:
@@ -60,9 +65,9 @@ class TestLogin(logclass):
         lg = Login(self.driver)
         self.driver.implicitly_wait(30)
         log.info("Test Case 003 - Starting")
-        lg.input_username("Admin")
+        lg.input_username(config.get("credential","correct_username"))
         log.info("Entered username")
-        lg.input_password("admin")
+        lg.input_password(config.get("credential","incorrect_password"))
         log.info("Entered wrong password")
         lg.click_login()
         log.info("Clicked login")
@@ -71,6 +76,7 @@ class TestLogin(logclass):
                 assert True
                 log.info("Test Case 003 - Pass")
             else:
+                self.driver.save_screenshot("Screenshots\\TestLogin_003.png")
                 log.critical("Test Case 003 - Failed")
                 assert False
         except:
